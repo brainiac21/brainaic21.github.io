@@ -13,7 +13,7 @@ name                     : &name "Yinan Zhao"
 description              : &description "Astronomy Department, University of Florida"
 url                      : https://brainiac21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "brainiac21/brainiac21.github.io"
+repository               : "brainiac21.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
