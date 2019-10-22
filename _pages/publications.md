@@ -48,7 +48,7 @@ D. 2018.
 
 <br>
 <b>3. [Quasar 2175 Å dust absorbers - I. Metallicity, depletion pattern and kinematics](http://brainiac21.github.io/publications/DACO1)</b> <br> 
-Ma, Ji.; Ge, J.; Zhao, Y.; Prochaska, J.; Zhang, S.; Ji, T.; Schneider, D. 2017.
+Ma, Ji.; Ge, J.; <b>Zhao, Y</b>.; Prochaska, J.; Zhang, S.; Ji, T.; Schneider, D. 2017.
 <i>Monthly Notices of the Royal Astronomical Society. 472, 2196.</i>.
 
 <br>
