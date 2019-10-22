@@ -9,11 +9,10 @@ author_profile: true
 
 <br>
 <b>1. [Identifying MgII Narrow Absorption Lines with Deep Learning](http://brainiac21.github.io/publications/MGDL)</b> <br> 
-<b>Yinan Zhao</b>, Jian Ge, Xiaoyong Yuan, Tiffany Zhao, Cindy Wang and Xiaolin Li.
+<b>Zhao, Y</b>.; Ge, J.; Yuan, X., Zhao, T.; Wang, C.; Li, X.
 <i>Monthly Notices of the Royal Astronomical Society. 487, 801</i>.
 
-
 <br>
-<b>1. [Identifying MgII Narrow Absorption Lines with Deep Learning](http://brainiac21.github.io/publications/MGDL)</b> <br> 
-<b>Yinan Zhao</b>, Jian Ge, Xiaoyong Yuan, Tiffany Zhao, Cindy Wang and Xiaolin Li.
+<b>1. [Studying quasar absorber host galaxy properties using image stacking technique](http://brainiac21.github.io/publications/MGDL)</b> <br> 
+Bill<b>Yinan Zhao</b>, Jian Ge, Xiaoyong Yuan, Tiffany Zhao, Cindy Wang and Xiaolin Li.
 <i>Monthly Notices of the Royal Astronomical Society. 487, 801</i>.
