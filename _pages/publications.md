@@ -6,9 +6,9 @@ author_profile: true
 ---
 ---
 <br>
-<b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://brainiac21.github.io/publications/MGDL)</b> <br> 
-<b>Lantao Yu</b>\*, Tianhe Yu\*, Chelsea Finn, Stefano Ermon.
-<i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
+<b>[Identifying MgII Narrow Absorption Lines with Deep Learning](http://brainiac21.github.io/publications/MGDL)</b> <br> 
+
+<b>Yinan Zhao</b>*, Jian Ge, Xiaoyong Yuan, Tiffany Zhao, Cindy Wang and Xiaolin Li.
+<i>Monthly Notices of the Royal Astronomical Society. 487, 801</i>. <b>MNRAS 2019</b>.
 
 [\* denotes equal contribution]
-
