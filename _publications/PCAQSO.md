@@ -1,7 +1,7 @@
 ---
 title: "Studying quasar absorber host galaxy properties using image stacking technique"
 collection: publications
-permalink: /publications/MGDL
+permalink: /publications/PCAQSO
 venue: "Monthly Notices of the Royal Astronomical Society"
 ---
 [[Download]](https://academic.oup.com/mnras/article/481/2/1469/5090162)
