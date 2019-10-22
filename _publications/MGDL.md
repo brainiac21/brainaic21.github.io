@@ -7,7 +7,7 @@ date: 2019-05-02
 venue: 'Monthly Notices of the Royal Astronomical Society'
 
 ---
-[[Website]]'https://academic.oup.com/mnras/article/487/1/801/5484871'
+[[Website]](https://academic.oup.com/mnras/article/487/1/801/5484871)
 
 
 ## Abstract
