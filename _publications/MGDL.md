@@ -2,8 +2,8 @@
 title: "Identifying MgII Narrow Absorption Lines with Deep Learning"
 collection: publications
 permalink: /publications/MGDL
+venue: "Monthly Notices of the Royal Astronomical Society"
 date: 2019-05-02
-venue: 'Monthly Notices of the Royal Astronomical Society'
 citation: '<b>Yinan Zhao</b>, Jian Ge, Xiaoyong Yuan, Tiffany Zhao, Cindy Wang, Xiaolin Li. <i>Monthly Notices of the Royal Astronomical Society. 487, 801.</i> <b>MNRAS2019</b>.'
 ---
 [[Download]](https://academic.oup.com/mnras/article/487/1/801/5484871)
