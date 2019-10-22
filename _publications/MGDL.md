@@ -5,7 +5,8 @@ permalink: /publications/MGDL
 date: 2019-05-02
 venue: 'Monthly Notices of the Royal Astronomical Society'
 citation: '<b>Yinan Zhao</b>*, Jian Ge, Xiaoyong Yuan, Tiffany Zhao, Cindy Wang and Xiaolin Li. <i>Monthly Notices of the
-Royal Astronomical Society. 487, 801</i>.'
+Royal Astronomical Society. 487, 801</i>. <b>MNRAS 2019</b>.'
+citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.'
 ---
 [[Download]](https://academic.oup.com/mnras/article/487/1/801/5484871)
 
