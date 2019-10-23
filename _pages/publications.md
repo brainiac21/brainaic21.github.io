@@ -53,7 +53,7 @@ Ma, Ji.; Ge, J.; <b>Zhao, Y</b>.; Prochaska, J.; Zhang, S.; Ji, T.; Schneider, D
 
 <br>
 <b>4. [DeepSky: Identifying Absorption Bumps via Deep Learning](http://brainiac21.github.io/publications/DADL)</b> <br> 
-Ma, Ji.; Ge, J.; <b>Zhao, Y</b>.; Prochaska, J.; Zhang, S.; Ji, T.; Schneider, D. 2016.
+Yuan, X.; Li, M.; Gaddam, S.; Li, X.; <b>Zhao, Y</b>.; Ma, J.; Ge, J. 2016.
 <i>, IEEE International Congress on Big Data, 214</i>.
 
 
